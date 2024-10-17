@@ -16,18 +16,22 @@ Download Node.js from nodejs.org.
 Install Yarn globally using the following command:
 
 npm install --global yarn
+
 Installation
 Follow these steps to get the project up and running on your local machine.
 
 Clone the repository:
 
 git clone git@github.com:luckychdhr/adidas-clone.git
+
 Navigate into the project directory:
 
 cd adidas-clone
+
 Install the dependencies:
 
 yarn install
+
 Running the Project
 After installing the dependencies, run the project:
 
